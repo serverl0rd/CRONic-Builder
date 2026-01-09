@@ -1,6 +1,6 @@
-# CRONic Builder
+# ServerLord's Vibe CRON Generator
 
-A minimalist CRON expression builder with a clean, Notion-inspired design. Build, parse, and visualize CRON expressions with ease.
+A minimalist CRON expression builder with a clean, Notion-inspired design. Build, parse, and visualize CRON expressions with style and ease.
 
 ## ✨ Features
 
@@ -75,6 +75,10 @@ Feel free to submit issues and enhancement requests!
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## 👨‍💻 Creator
+
+Created by [@ServerLord](https://serverlord.in) ([Atharva Kulkarni](https://atharvakulkarni.link))
 
 ---
 
